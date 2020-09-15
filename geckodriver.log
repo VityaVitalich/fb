@@ -1,0 +1,47 @@
+1600155800245	geckodriver	INFO	Listening on 127.0.0.1:43693
+1600155800248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5YRhy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600155801816	Marionette	INFO	Listening on port 40113
+1600155801852	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: "Error sending event: picker-node-picked"
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 217))
+TypeError: this.walker is null: form@resource://devtools/server/actors/inspector/node.js:217:24
+write@resource://devtools/shared/protocol/types.js:363:32
+write@resource://devtools/shared/protocol/types.js:268:39
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onPick@resource://devtools/server/actors/inspector/node-picker.js:102:18
+
+1600165813025	geckodriver	INFO	Listening on 127.0.0.1:45459
+1600165814036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCznHuz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600165816799	Marionette	INFO	Listening on port 39051
+1600165816845	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yi/l/ru_RU/H0J0bQIEK2y.js?_nc_x=Ij3Wp8lg5Kz, line 82: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yi/l/ru_RU/H0J0bQIEK2y.js?_nc_x=Ij3Wp8lg5Kz, line 82: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yi/l/ru_RU/H0J0bQIEK2y.js?_nc_x=Ij3Wp8lg5Kz, line 82: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yi/l/ru_RU/H0J0bQIEK2y.js?_nc_x=Ij3Wp8lg5Kz, line 82: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yi/l/ru_RU/H0J0bQIEK2y.js?_nc_x=Ij3Wp8lg5Kz, line 82: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/8iwle4dZL3e.js?_nc_x=Ij3Wp8lg5Kz, line 13: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1600166558620	Marionette	INFO	Stopped listening on port 39051
+1600170130099	geckodriver	INFO	Listening on 127.0.0.1:55017
+1600170131111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHcEbYp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600170133722	Marionette	INFO	Listening on port 42787
+1600170133819	Marionette	WARN	TLS certificate errors will be ignored for this session

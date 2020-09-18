@@ -45,3 +45,298 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Pha
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1600170133722	Marionette	INFO	Listening on port 42787
 1600170133819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600170641150	geckodriver	INFO	Listening on 127.0.0.1:58493
+1600170641161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2pnEXa"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600170642964	Marionette	INFO	Listening on port 44565
+1600170642968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600170645922	Marionette	INFO	Stopped listening on port 44565
+1600170647362	Marionette	INFO	Stopped listening on port 42787
+1600170649781	geckodriver	INFO	Listening on 127.0.0.1:46443
+1600170649791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIVjgsY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600170651737	Marionette	INFO	Listening on port 37833
+1600170651797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600173570030	Marionette	INFO	Stopped listening on port 37833
+1600337941645	geckodriver	INFO	Listening on 127.0.0.1:55475
+1600337941648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezZ7u1n"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600337943502	Marionette	INFO	Listening on port 41935
+1600337943553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yq/l/ru_RU/hLa75sVuvve.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yq/l/ru_RU/hLa75sVuvve.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yq/l/ru_RU/hLa75sVuvve.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yq/l/ru_RU/hLa75sVuvve.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yq/l/ru_RU/hLa75sVuvve.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yq/l/ru_RU/hLa75sVuvve.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yq/l/ru_RU/hLa75sVuvve.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600352268375	Marionette	INFO	Stopped listening on port 41935
+1600413219252	geckodriver	INFO	Listening on 127.0.0.1:53633
+1600413219262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFvhMpD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600413221261	Marionette	INFO	Listening on port 40363
+1600413221269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yp/l/ru_RU/6XA5oRdWktt.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+1600417717472	Marionette	INFO	Stopped listening on port 40363
+1600418092090	geckodriver	INFO	Listening on 127.0.0.1:48703
+1600418093096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewJAc6c"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600418095178	Marionette	INFO	Listening on port 41739
+1600418095217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600419595200	geckodriver	INFO	Listening on 127.0.0.1:46741
+1600419595211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUZyICE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600419596588	Marionette	INFO	Listening on port 35261
+1600419596615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+1600423692173	geckodriver	INFO	Listening on 127.0.0.1:32955
+1600423692179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZJsUFk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600423693668	Marionette	INFO	Listening on port 32859
+1600423693685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileUZyICE/protections.sqlite
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+1600423967920	Marionette	INFO	Stopped listening on port 35261
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 46: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ibQC4/yz/l/ru_RU/13q96KE9CP5.js?_nc_x=Ij3Wp8lg5Kz, line 141: NotSupportedError: MediaSource.addSourceBuffer: Can't play type

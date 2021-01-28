@@ -80,7 +80,7 @@ def opening_comms(driver, num_iter=3):
     #Костыли для открытия комментов
     #Костыли, созданные, чтобы открыть все длинные посты. К сожалению к 3 циклам пришлось прибегнуть, так как
     #часть кнопок не нажимаются с первого раза из-за того, что сайт недогрузился или не доскролился до нужной кнопки            
-    for i in range(num_iter):       
+    for j in range(num_iter):       
         should_restart = True
         while should_restart:
             should_restart = False
@@ -116,7 +116,7 @@ def opening_comms(driver, num_iter=3):
                 buttons[i].click()
             except:
                 continue
-        print('comms opened', i+1, ' iteration')
+        print('comms opened', j+1, ' iteration')
 
 def get_soup(driver):
     selen_page = driver.page_source
@@ -159,7 +159,10 @@ def date_parse(b, posts):
     #Перевод дат в формат д/м/г
     for i in tqdm(range(len(parsed_ls))):
         if (parsed_ls[i][-3]==':')==True:
-            parsed_ls[i]= parsed_ls[i][:-6]+year_td
+            if '2020' in parsed_ls[i]:
+                parsed_ls[i] = parsed_ls[i][:-6]
+            else:
+                parsed_ls[i]= parsed_ls[i][:-6]+year_td
         if parsed_ls[i][-4:-2]!='20':
             parsed_ls[i] = parsed_ls[i]+parsed_ls[i-1][-4:]
         if parsed_ls[i][:2].isnumeric():
